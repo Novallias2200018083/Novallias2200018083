@@ -1,4 +1,8 @@
+<div align="justify">
+
 My name is Noval Lias Ramadani and I am an Informatics Engineering student at Ahmad Dahlan University who is highly enthusiastic and motivated, and has strong abilities and initiative. I actively seek new challenges to develop my abilities. I have gained valuable experience by working. I have a deep interest in technology and programming, and during my studies, I have gained proficiency in various areas including programming languages such as Python, Java, and C++, web development with HTML, CSS, and JavaScript. In addition, I have honed my skills in designing and analyzing efficient algorithms. I am also a graphic designer and athlete at Tapak Suci Ahmad Dahlan University, some of my works and experiences include my achievements found at Ahmad Dahlan University.
+
+</div>
 
 
 ## 🌐 Socials:
