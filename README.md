@@ -4,6 +4,7 @@
   </a>
 </div>
 
+<h2 align="center">Connect with Me!</h2>
 <div align="center">
   <a href="https://instagram.com/novall.lr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:valleramadan46@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,10 +14,19 @@
 
 <div align="justify">
   <p>
-    👋 My name is <strong>Noval Lias Ramadani</strong>, a highly enthusiastic and dedicated Informatics Engineering student at <a href="https://uad.ac.id/" target="_blank">Ahmad Dahlan University</a>. With a strong passion for technology and continuous learning, I actively seek new challenges to sharpen my skills and creativity. My journey has led me to master various programming languages such as Python, Java, and C++, as well as frontend/backend web development using HTML, CSS, JavaScript, and modern frameworks.
+    👋 My name is <strong>Noval Lias Ramadani</strong>, a highly enthusiastic and dedicated Informatics Engineering student at <a href="https://uad.ac.id/" target="_blank">Ahmad Dahlan University</a>. I am deeply passionate about technology and committed to continuous learning, always seeking new challenges to sharpen my skills and creativity. My academic journey has allowed me to master various programming languages such as **Python**, **Java**, and **C++**, alongside extensive experience in **frontend** and **backend web development** using HTML, CSS, JavaScript, and modern frameworks.
   </p>
   <p>
-    🎨 Besides my technical expertise, I am also a <strong>graphic designer</strong> and an <strong>athlete</strong> actively engaged in <a href="https://tapaksuci.or.id/" target="_blank">Tapak Suci</a> at Ahmad Dahlan University. I believe in learning by doing and constantly push myself to deliver real-world solutions and innovations. My experiences also include valuable work achievements and recognition from my time at Ahmad Dahlan University.
+    🎨 Beyond my technical expertise, I am also a versatile <strong>graphic designer</strong> and a disciplined <strong>athlete</strong>, actively engaged in <a href="https://tapaksuci.or.id/" target="_blank">Tapak Suci</a> at Ahmad Dahlan University. I firmly believe in the power of "learning by doing" and constantly push myself to deliver real-world solutions and innovative projects. My experiences include valuable achievements and recognition earned during my studies.
+  </p>
+</div>
+
+---
+
+<h2 align="center">🚀 My Journey & Goals</h2>
+<div align="justify">
+  <p>
+    As an Informatics Engineering student, I'm driven by a desire to build and innovate. I thrive in environments that challenge me to think critically and apply my knowledge to solve practical problems. My goal is to leverage my programming and design skills to create impactful applications and contribute to meaningful technological advancements. I am always eager to collaborate on exciting projects and expand my professional network.
   </p>
 </div>
 
@@ -30,6 +40,19 @@
 </p>
 <p align="center">
   <em>Hover over the icons to see the technology names!</em>
+</p>
+
+---
+
+<h2 align="center">🌟 Featured Projects</h2>
+<p align="center">
+  <p>
+    Stay tuned! I'm constantly working on exciting projects. Check back soon for updates, or explore my repositories for my latest work!
+  </p>
+  <br>
+  <a href="https://github.com/Novallias2200018083?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-blue?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
 </p>
 
 ---
